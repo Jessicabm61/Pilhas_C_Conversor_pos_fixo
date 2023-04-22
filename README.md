@@ -1,0 +1,1 @@
+O objetivo deste projeto é receber uma expressão matemática na forma in-fixa, e convertê-la para a forma pós-fixa. A conversão é feita utilizando uma pilha para armazenar operadores e uma string para armazenar a saída pós-fixa.
